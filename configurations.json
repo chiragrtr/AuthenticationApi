@@ -1,0 +1,4 @@
+{
+  "connectionString": "mongodb://admin:admin7@ds149984.mlab.com:49984/authentication-api",
+  "secret": "secretKey"
+}
